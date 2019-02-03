@@ -1,6 +1,6 @@
 ## Deep Neural Network to classify between cat and non cat Images
 
-Developed a 4 layer neural network with four hidden layers to classify cat and non cat images with 80% accuracy. RELU was used as an activation function for the hidden layers and Sigmoid function has been used as an activation layer for the output layer
+Developed a 4 layer neural network to classify cat and non cat images with 80% accuracy. RELU was used as an activation function for the hidden layers and Sigmoid function has been used as an activation layer for the output layer
 
 No of Hidden layers: 3
 No of Epochs: 2400
