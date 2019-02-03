@@ -2,8 +2,12 @@
 
 Developed a 4 layer neural network to classify cat and non cat images with 80% accuracy. RELU was used as an activation function for the hidden layers and Sigmoid function has been used as an activation layer for the output layer
 
+The below are the parameters for the neural networks
+* train_x's shape: (12288, 209)
+* test_x's shape: (12288, 50)
 * No of Hidden layers: 3
-* No of Epochs: 2400
+* No of Epochs: 2500
+* Learning rate: 0.0075
 
 ## Result Analysis:
 
