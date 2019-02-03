@@ -5,7 +5,8 @@ Developed a deep neural network with four hidden layers to classify cat and non 
 No of Epochs: 2400
 
 ## Result Analysis:
-There are few cat images that are identified correctly. The below are the reasons for the misclassificaton. 
+
+A few types of images the model tends to do poorly on include the following,
 
 * Cat body in an unusual position
 * Cat appears against a background of a similar color
