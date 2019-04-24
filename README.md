@@ -19,4 +19,4 @@ A few types of images that the model tends to do poorly on include the following
 * Scale variation (cat is very large or small in image)
 * Hope to improve the model by tuning the hyperparameters and by using regularization.
 
-dvfsdf
+
